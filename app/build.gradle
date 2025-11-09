@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.xorwns56.music_composition_app"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 4
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.gms:play-services-ads:18.3.0'
+    implementation 'com.google.firebase:firebase-core:17.2.1'
+}
+
+apply plugin: 'com.google.gms.google-services'
