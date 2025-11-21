@@ -36,10 +36,25 @@
 
 ---
 
-<img src="https://img.shields.io/badge/🌱_파생 프로젝트-4caf50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Related%20Project-4caf50?style=for-the-badge" />
 
 ### **Floppy Disk Drive Music**
 > 구형 FDD의 모터 노이즈를 음원으로 활용하여 멜로디를 연주하는 음악 작품으로, Android 앱과 Arduino를 블루투스로 연동해 옥타브·음계 기반 주파수 계산 로직과 타이머 인터럽트/레지스터 제어를 통해 FDD를 정밀하게 구동하는 프로젝트입니다.
+<div align="center">
+  <img width="550" height="192" alt="FDD와디스크" src="https://github.com/user-attachments/assets/8815afe9-1a30-4287-85e1-21e757da978d" />
+  <br/><br/>
+  <!-- Info Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/개발형태-1인개발-eeeeee?style=for-the-badge&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/개발기간-2019.05~2019.06-eeeeee?style=for-the-badge&logoColor=white" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/IDE-Arduino%20IDE-eeeeee?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-C-eeeeee?style=for-the-badge&logoColor=white" />
+  </p>
+</div>
+
 <p align="center">
   <a href="./docs/스마트폰으로%20제어하는%20FDD%20음악.pdf" target="_blank">
     <img src="https://img.shields.io/badge/개발문서-2196f3?style=for-the-badge&logoColor=white" width="100"/>
