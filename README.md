@@ -26,7 +26,7 @@
 </div>
 <br/>
 <p align="center">
-  <a href="https://github.com/user-attachments/files/23673514/default.pdf" target="_blank">
+  <a href="./docs/보컬%20녹음이%20가능한%20미디시퀀서%20애플리케이션.pdf" target="_blank">
     <img src="https://img.shields.io/badge/개발문서-2196f3?style=for-the-badge&logoColor=white" width="100"/>
   </a>
 </p>
@@ -41,7 +41,7 @@
 ### **Floppy Disk Drive Music**
 > 구형 FDD의 모터 노이즈를 음원으로 활용하여 멜로디를 연주하는 음악 작품으로, Android 앱과 Arduino를 블루투스로 연동해 옥타브·음계 기반 주파수 계산 로직과 타이머 인터럽트/레지스터 제어를 통해 FDD를 정밀하게 구동하는 프로젝트입니다.
 <p align="center">
-  <a href="https://github.com/user-attachments/files/23673567/FDD.pdf" target="_blank">
+  <a href="./docs/스마트폰으로%20제어하는%20FDD%20음악.pdf" target="_blank">
     <img src="https://img.shields.io/badge/개발문서-2196f3?style=for-the-badge&logoColor=white" width="100"/>
   </a>
 </p>
